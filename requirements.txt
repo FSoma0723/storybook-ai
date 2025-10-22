@@ -1,0 +1,9 @@
+Pillow
+audio-recorder-streamlit
+google-generativeai
+numpy
+openai-whisper
+python-dotenv
+soundfile
+streamlit
+torch
