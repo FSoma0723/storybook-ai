@@ -5,5 +5,5 @@ numpy
 openai-whisper
 python-dotenv
 soundfile
-streamlit
+streamlit==1.32.2
 torch
